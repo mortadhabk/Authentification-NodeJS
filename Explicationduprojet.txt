@@ -1,0 +1,14 @@
+ j'ai utilisé joi pour la verification de donnée saisie (validation)
+    "joi": "^17.6.0",
+ j'ai utilisé bcrypt pour le cryptage de password
+    "bcryptjs": "^2.4.3",
+ j'ai utilisé dotenv pour mettre à coté les données sensibles comme le password de base de donnée et token secret
+    "dotenv": "^14.3.2",
+ j'ai utilisé le framework express 
+    "express": "^4.17.2",
+ j'ai utilisé jwt pour le token 
+    "jsonwebtoken": "^8.5.1",
+ j'ai utilisé mongoose pour les models de mongodb
+    "mongoose": "^6.1.8"
+
+ merci.
